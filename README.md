@@ -1,1 +1,1 @@
-# motion-detection
+# Motion Detection using Simple Image Filtering
