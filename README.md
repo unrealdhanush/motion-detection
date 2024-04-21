@@ -23,8 +23,6 @@ No installation needed other than ensuring MATLAB and the Image Processing Toolb
 To execute the script, type the following in your MATLAB command window:
 ```motion_detector()```
 
-Ensure that the video frames are stored as image files (.jpg) in the folder specified by `myFolder`.
-
 ## CONFIGURATION PARAMETERS
 - **THRESHOLD**: Sets the sensitivity of motion detection.
 - **TEMPORAL_SCALE**: Enhances or reduces the effect of time in motion detection.
