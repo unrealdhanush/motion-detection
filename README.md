@@ -21,7 +21,7 @@ No installation needed other than ensuring MATLAB and the Image Processing Toolb
 
 ## USAGE
 To execute the script, type the following in your MATLAB command window:
-'''motion_detector()'''
+```motion_detector()```
 
 Ensure that the video frames are stored as image files (.jpg) in the folder specified by `myFolder`.
 
