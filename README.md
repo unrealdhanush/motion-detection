@@ -34,4 +34,5 @@ The script outputs its results in a MATLAB figure window displaying:
 - Detected motion via each filter type
 - Binary masks and filtered outputs for each detection method
 
-Adjust script paths and parameters to fit your specific requirements and directory structure.
+Adjust script paths and parameters to fit your specific requirements and directory structure. 
+Check out the ```results``` folder results generated on the ```RedChair``` and ```Office``` data.
